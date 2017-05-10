@@ -1,14 +1,14 @@
 {
-  "name": "bootcamp_training_day_02",
+  "name": "CodeLabs 2",
   "version": "1.0.0",
-  "description": "A repository showing a simple class defition to pactice simple concepts of object-oriented programming.",
+  "description": "A repository showing a simple function that calcultes the frequencies of words in a string",
   "main": "app/CodeLabs.js",
   "scripts": {
     "test": "spec/test-spec.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darasimiolaifa/bootcamp_training_day_02.git"
+    "url": "git+https://github.com/darasimiolaifa/CodeLabs2.git"
   },
   "keywords": [
     "OOP",
@@ -19,9 +19,9 @@
   "author": "Olaifa Darasimi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/darasimiolaifa/bootcamp_training_day_02/issues"
+    "url": "https://github.com/darasimiolaifa/CodeLabs2/issues"
   },
-  "homepage": "https://github.com/darasimiolaifa/bootcamp_training_day_02#readme",
+  "homepage": "https://github.com/darasimiolaifa/CodeLabs2#readme",
   "dependencies": {
     "jasmine": "^2.6.0"
   }
