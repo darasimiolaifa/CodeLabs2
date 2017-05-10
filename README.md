@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Jasmine Demo
-This repository contains a OOP class definition. It contains a javascript class named Car with methods, properties, and getter methods for accessing certain properties of the class.
+# CodeLabs 2
+This repository contains a simple function that calcultes the frequencies of words in a string.
 
 ## Testing
 - To run test for the application use the command: `npm test`.
